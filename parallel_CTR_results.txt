@@ -1,0 +1,6 @@
+CTR Decrypt time parallel for 1 workers:  1.4015395641326904
+... b'aciejczarkowsk'
+CTR Decrypt time parallel for 2 workers:  0.9249956607818604
+... b'aciejczarkowsk'
+CTR Decrypt time parallel for 4 workers:  0.730994701385498
+... b'aciejczarkowsk'
